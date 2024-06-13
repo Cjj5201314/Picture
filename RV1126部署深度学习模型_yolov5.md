@@ -215,7 +215,6 @@ RV1126推理yolov5效果如下：
 
 5、RV1126部署yolov5演示视频
 
-<video src="https://github.com/Cjj5201314/Picture/blob/main/Data/Videoes/RV1126%E6%88%90%E6%9E%9C%E6%BC%94%E7%A4%BA.mp4" autoplay="true" controls="controls" width="800" height="600">
-</video>
+https://github.com/Cjj5201314/Picture/assets/155733467/33d7d5b3-d47e-4c4d-8e71-343f95b01379
 
 
